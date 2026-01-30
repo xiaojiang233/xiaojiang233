@@ -1,5 +1,3 @@
 # 卧槽恶俗啊
 
-注意：头像中的MTF旗帜仅为中国大陆互联网上对于高技术力男性（生理性别）青少年的一个模因，并不完全代表本人对自己的性别认同
-
-Note: The MTF flag in the avatar is merely a meme on the Chinese mainland internet referring to technically skilled male (biological sex) teenagers, and does not fully represent my own gender identity.
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiang233&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
